@@ -16,7 +16,7 @@
 }
 
 .listing-heading {
-  font-size: 48pt;
+  font-size: 30pt;
   font-weight: bold;
   margin-bottom: 15px;
 }
@@ -31,7 +31,7 @@
 }
 
 .listing-features > .section-heading {
-  color: var(--secondary-color);
+  color: #8b89e6;
   font-size: 24pt;
   margin-bottom: 15px;
 }
